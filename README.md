@@ -35,13 +35,13 @@
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50"/>
   </a>
   <a href="https://leetcode.com/u/ioOdwaRvJ2/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" alt="LeetCode" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/harshpraer0q/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gfg" alt="GeeksforGeeks" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" width="50"/>
   </a>
   <a href="https://www.hackerrank.com/profile/harshprasad2408" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" alt="HackerRank" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="50"/>
   </a>
 </p>
 
@@ -98,4 +98,4 @@
 
 ---
 
-⭐ **_"Building solutions that matter!"_**  
+⭐ **_"Building solutions that matter!"_**
