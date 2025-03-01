@@ -3,7 +3,7 @@
   Hi, I'm Harsh Prasad!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1> 
-
+ 
 <h3 align="center">🚀 Passionate Web Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
