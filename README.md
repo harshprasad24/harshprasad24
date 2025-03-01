@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   Hi, I'm Harsh Prasad!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1
+</h1>
 
 <h3 align="center">🚀 Passionate Web Developer | AI Enthusiast | Problem Solver</h3>
 
@@ -20,6 +20,10 @@
 - 🔥 Currently learning **React & AI Technologies**  
 - 🚀 Focused on **Scalable & Efficient Solutions**  
 - 🌱 Exploring **Computer Vision & NLP**  
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=harshprasad24&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" /> 
+</p>
 
 ---
 
@@ -98,4 +102,4 @@
 
 ---
 
-⭐ **_"Building solutions that matter!"_**
+⭐ **_"Building solutions that matter!"_**  
