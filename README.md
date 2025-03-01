@@ -7,7 +7,7 @@
 <h3 align="center">🚀 Passionate Web Developer | AI Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&width=550&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Developer+%7C+AI+Enthusiast;Building+Scalable+%26+Efficient+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&width=550&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Developer+%7C+AI+Enthusiast;Building+Scalable+%26+Efficient+Solutions" alt="Typing Animation" />
 </p>
 
 ---
