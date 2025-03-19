@@ -1,28 +1,32 @@
-  <h1 align="center">
+<h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-  Hi, I'm Harsh Prasad!
+  Hey, I'm Harsh Prasad!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
 </h1> 
- 
-<h3 align="center">🚀 Passionate Web Developer | AI Enthusiast | Problem Solver</h3>
+
+<h3 align="center">💻 Full-Stack Engineer | AI/ML Practitioner | Open Source Evangelist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&width=550&lines=Welcome+to+my+GitHub+Profile!;Full-stack+Developer+%7C+AI+Enthusiast;Building+Scalable+%26+Efficient+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F75C7E&width=600&lines=Innovating+with+Code!;Full-stack+Engineer+%7C+AI+Architect;Optimizing+Systems+for+Scalability" alt="Typing Animation" />
 </p>
 
 ---
 
-### 🌟 About Me  
-- 📍 Location: **CV Raman, Bhubaneswar**  
-- 📧 Email: **harshprasad2408@gmail.com**  
-- 💻 Web & Mobile App Developer | 🤖 AI & ML Enthusiast  
-- 🎯 Passionate about **real-time applications**  
-- 🔥 Currently learning **React & AI Technologies**  
-- 🚀 Focused on **Scalable & Efficient Solutions**  
-- 🌱 Exploring **Computer Vision & NLP**  
+### 🚀 About Me  
+- 🔭 **Developing AI-integrated Scalable Web & Cloud Solutions**  
+- 🛠 **Expertise in Deep Learning, NLP, and Computer Vision**  
+- 💡 **Building High-Performance Distributed Systems**  
+- 🌱 **Researching AI Ethics & Quantum Computing**  
+- ⚡ **Competitive Programmer | OSS Contributor | Hackathon Winner**  
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=harshprasad24&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" /> 
+📍 **Location:** CV Raman, Bhubaneswar  
+📧 **Email:** harshprasad2408@gmail.com  
+
+---
+
+### 🛠 Tech Stack & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,flask,django,fastapi,mongodb,mysql,postgresql,redis,graphql,docker,kubernetes,aws,azure,gcp,arduino,git,github,linux,vscode" alt="Tech Stack"/>
 </p>
 
 ---
@@ -35,9 +39,6 @@
   <a href="https://www.linkedin.com/in/harsh-prasad-b7663726b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
   </a>
-  <a href="https://instagram.com/harsh_prasad.5" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="50"/>
-  </a>
   <a href="https://leetcode.com/u/ioOdwaRvJ2/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50"/>
   </a>
@@ -47,17 +48,6 @@
   <a href="https://www.hackerrank.com/profile/harshprasad2408" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" width="50"/>
   </a>
-</p>
-
----
-
-### ⚡ Tech Stack & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,mongodb,mysql,arduino,git,github,vscode,linux" alt="Tech Stack"/>
-</p>
-
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif" width="300" />
 </p>
 
 ---
@@ -74,13 +64,11 @@
 
 ---
 
-### 🚀 Recent Activity  
-<!--START_SECTION:activity-->
-1. 🏆 **Completed 50+ Leetcode Challenges**
-2. 🚀 **Published a new Open Source Project**
-3. 🎯 **Working on AI-driven Web Applications**
-4. 🌱 **Exploring new Tech Stacks**
-<!--END_SECTION:activity-->
+### 🚀 Featured Projects  
+✅ **[AI-Powered Resume Analyzer](https://github.com/harshprasad24/resume-analyzer)** (NLP, TensorFlow, Flask)  
+✅ **[Real-Time Chat App](https://github.com/harshprasad24/chat-app)** (React, Node.js, WebSockets)  
+✅ **[Smart Attendance System](https://github.com/harshprasad24/smart-attendance)** (OpenCV, Deep Learning)  
+✅ **[Personal Portfolio](https://harshprasad.dev)** (Next.js, Tailwind, AWS)  
 
 ---
 
@@ -93,7 +81,7 @@
 
 ---
 
-### ☕ Support Me  
+### ☕ Support My Work  
 <p align="center">
   <a href="https://www.buymeacoffee.com/harshprasad" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me a Coffee"/>
@@ -102,4 +90,4 @@
 
 ---
 
-⭐ **_"Building solutions that matter!"_**  
+⭐ **_"Engineering the future, one algorithm at a time!"_**
