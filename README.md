@@ -39,7 +39,7 @@
   <a href="https://www.linkedin.com/in/harsh-prasad-b7663726b" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50"/>
   </a>
-  <a href="https://leetcode.com/u/ioOdwaRvJ2/" target="_blank">
+  <a href="https://leetcode.com/u/Harsh_prasad_24/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50"/>
   </a>
   <a href="https://www.geeksforgeeks.org/user/harshpraer0q/" target="_blank">
@@ -90,4 +90,4 @@
 
 ---
 
-⭐ **_"Engineering the future, one algorithm at a time!"_**
+⭐ **_"Engineering the future, one algorithm at a time!"_**  
